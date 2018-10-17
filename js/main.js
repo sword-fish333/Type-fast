@@ -5,7 +5,7 @@ const levels={
     hard:3
 };
 
-const currentLevel=levels.easy;
+const currentLevel=levels.medium;
 let time=currentLevel;
 let score=0;
 let isPlaying;
@@ -36,6 +36,9 @@ const words=['acceptance',
 'serene',
 'nostalgic',
 'developer',
+'fallout',
+'viking',
+'metall',
 'core',
 'karma',
 'cowboy',
@@ -47,6 +50,28 @@ const words=['acceptance',
 'integrity',
 'joke',
 'esoteric',
+'gentleman',
+'knight',
+'horseman',
+'badass',
+'bone',
+'autodidact',
+'meaningless',
+'metanoia',
+'epeolatry',
+'solivagant',
+'philocalist',
+'uncanny',
+'rambunctious',
+'paradigm',
+'misanthrope',
+'lucid',
+'lethargic',
+'ken',
+'gallivant',
+'fortitude',
+'cynical',
+'capricious',
 'benevolent',
 'power',
 'real',
